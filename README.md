@@ -12,11 +12,11 @@ This project is a MATLAB-based graphical user interface (GUI) application design
 **Prerequisites**
 This project requires MATLAB to run.
 **Installation (Download)**
-1. Clone the repository:
-git clone https://github.com/SiddhanthIreng/matlab-DigicommSim-GUI.git
-2. Navigate to the project directory:
-cd DigitalCommSimulator
-3. Download as ZIP: Alternatively, you can download the repository as a ZIP file and extract the contents to a folder on your computer.
+ 1. Clone the repository:
+    git clone https://github.com/SiddhanthIreng/matlab-DigicommSim-GUI.git
+ 2. Navigate to the project directory:
+    cd DigitalCommSimulator
+ 3. Download as ZIP: Alternatively, you can download the repository as a ZIP file and extract the contents to a folder on your computer.
 # How to Use the Simulator
 The entire application runs from a single main script/app file (likely named DigitalCommSystem.m or similar).
 **1. Launch the Application**
